@@ -12,3 +12,6 @@ let doc1=ordinary+4;
 console.log(doc1);
 let doc2=ordinary*7;
 console.log(doc2);
+function increment(){
+    console.log("the button is clicked");
+}
